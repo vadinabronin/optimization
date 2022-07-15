@@ -1,2 +1,2 @@
-from func import function
+from optimization import func
 import os
